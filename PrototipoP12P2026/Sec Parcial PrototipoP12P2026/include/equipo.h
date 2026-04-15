@@ -7,7 +7,7 @@ using namespace std;
 
 #define NUMERO_JORNADAS 5
 
-class Equipo
+class Equipo // la clase de equipo sirvio para poder asignarles los valores (ya preestablecidos) a los equipos a traves de sus puntos y puntos por jornada
 {
 private:
     string nombre;
