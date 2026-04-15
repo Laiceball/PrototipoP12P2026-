@@ -1,4 +1,3 @@
-// AQUI Main
 #include "Torneo.h"
 
 int main()
@@ -6,7 +5,7 @@ int main()
     srand(getpid());
 
     Torneo torneo;
-    torneo.ejecutar();
+    torneo.ejecutar(); //solo es necesario llamar a la clase torneo ya que contiene toda la logica
 
     return 0;
 }
