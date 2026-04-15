@@ -12,7 +12,7 @@ using namespace std;
 #define GOLES_MAX      5
 #define GOLES_MIN      0
 
-class Grupo
+class Grupo // la clase grupo nos sirvio para poder clasificar los equipos por grupos de manera aleatoria
 {
 private:
     string nombre;
