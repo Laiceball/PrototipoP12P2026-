@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1776270715 source:c:\users\jjavi\onedrive\documentos\prototipop12p2026\prototipop12p2026\sec parcial prototipop12p2026\src\equipo.cpp
+	"Equipo.h"
+
+1776271795 c:\users\jjavi\onedrive\documentos\prototipop12p2026\prototipop12p2026\sec parcial prototipop12p2026\include\equipo.h
+	<string>
+
+1776270599 source:c:\users\jjavi\onedrive\documentos\prototipop12p2026\prototipop12p2026\sec parcial prototipop12p2026\src\grupo.cpp
+	"Grupo.h"
+
+1776271618 c:\users\jjavi\onedrive\documentos\prototipop12p2026\prototipop12p2026\sec parcial prototipop12p2026\grupo.h
+	<iostream>
+	<iomanip>
+	<string>
+	"Equipo.h"
+

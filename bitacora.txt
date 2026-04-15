@@ -1,0 +1,41 @@
+commit 9767eb8b3875a3707a538d200555bb71ae224738
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:53:45 2026 -0600
+
+    division de equipos
+
+commit 0719c7d2cfafcaf0901cc900acd50222c2b8cd9f
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:50:32 2026 -0600
+
+    Documentacion en el apartado de equipo
+
+commit f5862c6b862d1ded55815cfed45e58a2531fbb0c
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:47:31 2026 -0600
+
+    Documentacion en el apartado de grupo
+
+commit f3d9fb847c82c08a15117038838a249a5d522901
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:44:35 2026 -0600
+
+    Documentacion en el apartado de torneo
+
+commit cc94ca2c3d9fef57be38fde3743280bce973b499
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:38:28 2026 -0600
+
+    Documentacion en el apartado de main
+
+commit fd8bddf0fcab680a60c0e7683beaa953e0e98075
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:35:09 2026 -0600
+
+    Implementacion del projecto del torneo de FUT
+
+commit 9f0cd819edaa4b3adb4ad9c4045355ea15e99299
+Author: JJ <jjbarca@gmail.com>
+Date:   Wed Apr 15 10:20:48 2026 -0600
+
+    first commit
