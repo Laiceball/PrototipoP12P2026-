@@ -1,6 +1,6 @@
 #include "Torneo.h"
 
-Torneo::Torneo()
+Torneo::Torneo() //Asigne nombres pre establecidos, utilizando como referencia la Serie A de italia, dividiendole en 3 grupos de 6 equipos.
 {
     string nombresGrupoA[NUMERO_EQUIPOS] = {
         "Inter de Milan", "AC Milan", "Juventus",
