@@ -10,7 +10,7 @@ class Torneo
 private:
     Grupo* grupos[NUMERO_GRUPOS];
 
-    void compararGrupos(float promedios[NUMERO_GRUPOS]);
+    void compararGrupos(float promedios[NUMERO_GRUPOS]); // inicializamos la funcion de comparar grupos, implemnetando los promedios, recorriendo NUMERO_GRUPOS
 
 public:
     Torneo();
